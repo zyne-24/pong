@@ -1,0 +1,26 @@
+body {
+    background: #191919;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 20px 0 10px 0;
+}
+
+#score {
+    font-size: 28px;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+#pongCanvas {
+    display: block;
+    margin: 0 auto;
+    background: #222;
+    border: 2px solid #fff;
+    box-shadow: 0 0 20px #111;
+}
